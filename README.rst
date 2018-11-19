@@ -81,7 +81,7 @@ Does this really need to be constantly explained?
 *What's with the name?*
 
 The name refers to the medieval weapon consisting of a ball and chain.
-See https://en.wikipedia.org/wiki/Flail_(weapon).
+See `https://en.wikipedia.org/wiki/Flail_(weapon) <https://en.wikipedia.org/wiki/Flail_(weapon)>`_.
 
 *Who?*
 
