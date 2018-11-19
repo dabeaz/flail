@@ -89,3 +89,6 @@ Flail is the brainchild of David Beazley (@dabeaz) who disavows all
 knowledge of it and who should probably be working on his book
 instead.  
 
+*PS*
+
+You should sign up for a `course <https://www.dabeaz.com/courses.html>`_.
