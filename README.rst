@@ -74,21 +74,21 @@ underscore.  For example::
 FAQ
 ---
 
-*Why?*
+**Why?**
 
 Does this really need to be constantly explained?
 
-*What's with the name?*
+**What's with the name?**
 
 The name refers to the medieval weapon consisting of a ball and chain.
 See `https://en.wikipedia.org/wiki/Flail_(weapon) <https://en.wikipedia.org/wiki/Flail_(weapon)>`_.
 
-*Who?*
+**Who?**
 
 Flail is the brainchild of David Beazley (@dabeaz) who disavows all
 knowledge of it and who should probably be working on his book
 instead.  
 
-*PS*
+**P.S.**
 
-You should sign up for a `course <https://www.dabeaz.com/courses.html>`_.
+You should come take a `course <https://www.dabeaz.com/courses.html>`_.
